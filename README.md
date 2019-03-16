@@ -13,8 +13,11 @@ What features are most important for predicting diabetes disease progression (ou
 To answer the above question, the following classification/refression algorithms were performed on the diabetes. 
 
 *Linear Regression
+
 *Decision Tree
+
 *Random Forest
+
 *Gradient Boosting
 
 
